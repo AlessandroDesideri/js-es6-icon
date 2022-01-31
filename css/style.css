@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header {
+    padding: 20px;
+    background-color: lightskyblue;
+    border-bottom: 15px solid #fff; 
+}
+
+header > h1 {
+    font-size: 40px;
+    padding: 10px 0;
+}
+
+.container-icons {
+    background-color: lightgrey; 
+}
+
+.box{
+    width: 180px;
+    height: 80px;
+    margin: 10px;
+    border: 1px solid lightslategray;
+    border-radius: 15px;
+} 
+
+.box > i {
+    font-size: 25px
+}
+
+.printed-name {
+    font-size: 12px;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+    color: purple;
+}
